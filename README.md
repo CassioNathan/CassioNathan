@@ -4,16 +4,16 @@ Desenvolvedor na **LC Sistemas**, construindo o ecossistema **LC Pedir** (API, p
 
 <table width="100%">
   <tr>
-    <td align="center" width="25%"><img src="assets/gourmet.png" width="88" alt="Gourmet"><br><b>Gourmet</b><br><sub>Front + Back</sub></td>
-    <td align="center" width="25%"><img src="assets/balcao.png" width="88" alt="Balcão"><br><b>Balcão</b><br><sub>Front + Back</sub></td>
-    <td align="center" width="25%"><img src="assets/forcavendas.png" width="88" alt="Força de Vendas"><br><b>Força&nbsp;de&nbsp;Vendas</b><br><sub>Front + Back</sub></td>
-    <td align="center" width="25%"><img src="assets/pay.png" width="88" alt="Pay"><br><b>Pay</b><br><sub>Front</sub></td>
+    <td align="center" width="25%"><img src="assets/gourmet.png" width="88" alt="Gourmet"><br><b>Gourmet</b><br><sub>Fullstack</sub></td>
+    <td align="center" width="25%"><img src="assets/balcao.png" width="88" alt="Balcão"><br><b>Balcão</b><br><sub>Fullstack</sub></td>
+    <td align="center" width="25%"><img src="assets/forcavendas.png" width="88" alt="Força de Vendas"><br><b>Força&nbsp;de&nbsp;Vendas</b><br><sub>Fullstack</sub></td>
+    <td align="center" width="25%"><img src="assets/pay.png" width="88" alt="Pay"><br><b>Pay</b><br><sub>Frontend</sub></td>
   </tr>
   <tr>
-    <td align="center" width="25%"><img src="assets/dashboard.png" width="88" alt="Dashboard"><br><b>Dashboard</b><br><sub>Front + Back</sub></td>
-    <td align="center" width="25%"><img src="assets/coletor.png" width="88" alt="Coletor de dados"><br><b>Coletor&nbsp;de&nbsp;dados</b><br><sub>Front</sub></td>
-    <td align="center" width="25%"><img src="assets/portal.png" width="88" alt="Portal"><br><b>Portal</b><br><sub>Front</sub></td>
-    <td align="center" width="25%"><img src="assets/lcpedir.png" width="88" alt="LC Pedir"><br><b>LC&nbsp;Pedir</b><br><sub>Front + Back</sub></td>
+    <td align="center" width="25%"><img src="assets/dashboard.png" width="88" alt="Dashboard"><br><b>Dashboard</b><br><sub>Fullstack</sub></td>
+    <td align="center" width="25%"><img src="assets/coletor.png" width="88" alt="Coletor de dados"><br><b>Coletor&nbsp;de&nbsp;dados</b><br><sub>Frontend</sub></td>
+    <td align="center" width="25%"><img src="assets/portal.png" width="88" alt="Portal"><br><b>Portal</b><br><sub>Frontend</sub></td>
+    <td align="center" width="25%"><img src="assets/lcpedir.png" width="88" alt="LC Pedir"><br><b>LC&nbsp;Pedir</b><br><sub>Fullstack</sub></td>
   </tr>
   <tr>
     <td colspan="4"><img src="assets/spacer.png" width="2000" height="1" alt=""></td>
