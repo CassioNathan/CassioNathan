@@ -16,7 +16,7 @@ Desenvolvedor na **LC Sistemas**, construindo o ecossistema **LC Pedir** (API, p
     <td align="center" width="25%"><img src="assets/lcpedir.png" width="88" alt="LC Pedir"><br><b>LC&nbsp;Pedir</b><br><sub>Front + Back</sub></td>
   </tr>
   <tr>
-    <td colspan="4"><img src="assets/spacer.gif" width="2000" height="1" alt=""></td>
+    <td colspan="4"><img src="assets/spacer.png" width="2000" height="1" alt=""></td>
   </tr>
 </table>
 
@@ -40,7 +40,7 @@ Desenvolvedor na **LC Sistemas**, construindo o ecossistema **LC Pedir** (API, p
     </td>
   </tr>
   <tr>
-    <td colspan="2"><img src="assets/spacer.gif" width="2000" height="1" alt=""></td>
+    <td colspan="2"><img src="assets/spacer.png" width="2000" height="1" alt=""></td>
   </tr>
 </table>
 
