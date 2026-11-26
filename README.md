@@ -15,6 +15,9 @@ Desenvolvedor na **LC Sistemas**, construindo o ecossistema **LC Pedir** (API, p
     <td align="center" width="25%"><img src="assets/portal.png" width="88" alt="Portal"><br><b>Portal</b><br><sub>Front</sub></td>
     <td align="center" width="25%"><img src="assets/lcpedir.png" width="88" alt="LC Pedir"><br><b>LC&nbsp;Pedir</b><br><sub>Front + Back</sub></td>
   </tr>
+  <tr>
+    <td colspan="4"><img src="assets/spacer.gif" width="2000" height="1" alt=""></td>
+  </tr>
 </table>
 
 ## 🛠️ Projetos pessoais
@@ -35,6 +38,9 @@ Desenvolvedor na **LC Sistemas**, construindo o ecossistema **LC Pedir** (API, p
       </a><br>
       Pedalboard virtual para guitarra
     </td>
+  </tr>
+  <tr>
+    <td colspan="2"><img src="assets/spacer.gif" width="2000" height="1" alt=""></td>
   </tr>
 </table>
 
