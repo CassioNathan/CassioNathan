@@ -1,20 +1,30 @@
-# Fala, eu sou o Cassio 👋
-
-Desenvolvedor na **LC Sistemas**, construindo o ecossistema **LC Pedir** (API, painel e web). Fora do expediente, faço ferramentas que eu mesmo queria ter: um mascote de mesa, um pedalboard de guitarra, um app que transforma texto em mapa mental.
+Desenvolvedor na **LC Sistemas**, construindo o ecossistema **LC Pedir** (API, painel e web). Fora do expediente, faço ferramentas que eu mesmo queria ter.
 
 ## 🛠️ Projetos em destaque
 
-### 🐾 [claudinho](https://github.com/CassioNathan/claudinho)
-Mascote de mesa em pixel art para Windows, com o jeitinho do Darwin. Conversa por texto ou voz usando o Claude Code, avisa quando seus chats terminam, abre programas e projetos, aperta atalhos que você ensina e repete rotinas gravadas em sites. Sempre pede licença pro que mexe no PC.
-
-### 🎸 [Stompdesk](https://github.com/CassioNathan/stompdesk-releases)
-Pedalboard virtual para guitarra no Windows. O código é fechado, mas os downloads e as atualizações ficam [aqui](https://github.com/CassioNathan/stompdesk-releases).
-
-### 🌿 Ramo
-Seus textos viram mapas mentais. Roda no navegador, sem conta. *(repositório privado por enquanto)*
-
-### 🍽️ LC Pedir
-Trabalho no ecossistema de pedidos da LC Sistemas: API em Java, painel e web. *(código privado)*
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://github.com/CassioNathan/claudinho">
+        <img src="assets/claudinho.png" width="96" alt="claudinho"><br>
+        <b>claudinho</b>
+      </a><br>
+      Mascote de mesa pixelado
+    </td>
+    <td align="center" width="33%">
+      <a href="https://github.com/CassioNathan/stompdesk-releases">
+        <img src="assets/stompdesk.svg" width="96" alt="Stompdesk"><br>
+        <b>Stompdesk</b>
+      </a><br>
+      Pedalboard virtual para guitarra
+    </td>
+    <td align="center" width="33%">
+      <img src="assets/lcpedir.png" width="96" alt="LC Pedir"><br>
+      <b>LC Pedir</b><br>
+      Ecossistema de pedidos
+    </td>
+  </tr>
+</table>
 
 ## 🧰 Stack
 
@@ -23,7 +33,3 @@ Trabalho no ecossistema de pedidos da LC Sistemas: API em Java, painel e web. *(
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-
-## 📫 Contato
-
-Pode abrir uma issue em qualquer repositório público ou me chamar por aqui mesmo no GitHub.
