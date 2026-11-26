@@ -1,27 +1,39 @@
 Desenvolvedor na **LC Sistemas**, construindo o ecossistema **LC Pedir** (API, painel e web). Fora do expediente, faço ferramentas que eu mesmo queria ter.
 
-## 🛠️ Projetos em destaque
+## 🏢 Projetos da LC Sistemas
 
 <table>
   <tr>
-    <td align="center" width="33%">
+    <td align="center" width="25%"><img src="assets/gourmet.png" width="88" alt="Gourmet"><br><b>Gourmet</b></td>
+    <td align="center" width="25%"><img src="assets/balcao.png" width="88" alt="Balcão"><br><b>Balcão</b></td>
+    <td align="center" width="25%"><img src="assets/forcavendas.png" width="88" alt="Força de Vendas"><br><b>Força de Vendas</b></td>
+    <td align="center" width="25%"><img src="assets/pay.png" width="88" alt="Pay"><br><b>Pay</b></td>
+  </tr>
+  <tr>
+    <td align="center" width="25%"><img src="assets/dashboard.png" width="88" alt="Dashboard"><br><b>Dashboard</b></td>
+    <td align="center" width="25%"><img src="assets/coletor.png" width="88" alt="Coletor de dados"><br><b>Coletor de dados</b></td>
+    <td align="center" width="25%"><img src="assets/portal.png" width="88" alt="Portal"><br><b>Portal</b></td>
+    <td align="center" width="25%"><img src="assets/lcpedir.png" width="88" alt="LC Pedir"><br><b>LC Pedir</b></td>
+  </tr>
+</table>
+
+## 🛠️ Projetos pessoais
+
+<table>
+  <tr>
+    <td align="center" width="50%">
       <a href="https://github.com/CassioNathan/claudinho">
         <img src="assets/claudinho.png" width="96" alt="claudinho"><br>
         <b>claudinho</b>
       </a><br>
       Mascote de mesa pixelado
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <a href="https://github.com/CassioNathan/stompdesk-releases">
         <img src="assets/stompdesk.svg" width="96" alt="Stompdesk"><br>
         <b>Stompdesk</b>
       </a><br>
       Pedalboard virtual para guitarra
-    </td>
-    <td align="center" width="33%">
-      <img src="assets/lcpedir.png" width="96" alt="LC Pedir"><br>
-      <b>LC Pedir</b><br>
-      Ecossistema de pedidos
     </td>
   </tr>
 </table>
